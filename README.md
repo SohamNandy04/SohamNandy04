@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SohamNandy04
-- 👀 I’m interested in WEB DEV, BLOCKCHAIN DEV, ML and AI
+- 👀 I’m interested in WEB DEV, BLOCKCHAIN DEV, ML
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects that requires learning BLOCKCHAIN Development for creating the project.
 - 📫 How to reach me www.linkedin.com/in/soham-nandy-sn080304
