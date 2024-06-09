@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SohamNandy04
-- 👀 I’m interested in WEB DEV, BLOCKCHAIN DEV, ML
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on projects that requires learning BLOCKCHAIN Development for creating the project.
+- 👋 Hi, I’m Soham Nandy
+- 👀 I’m interested in WEB DEV, ML.
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 💞️ You can check my few projects I have uploaded. I will be creating and uploading more in the future.
 - 📫 How to reach me www.linkedin.com/in/soham-nandy-sn080304
 
 <!---
