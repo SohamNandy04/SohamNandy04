@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham Nandy
-- 👀 I’m interested in WEB DEV, ML.
+- 👀 I’m interested in WEB DEV, Machine Learning stuffs.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ You can check my few projects I have uploaded. I will be creating and uploading more in the future.
 - 📫 How to reach me www.linkedin.com/in/soham-nandy-sn080304
