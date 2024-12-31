@@ -4,6 +4,8 @@
 - 💞️ You can check my few projects I have uploaded. I will be creating and uploading more in the future.
 - 📫 How to reach me www.linkedin.com/in/soham-nandy-sn080304
 
+- Currently working on a full stack project and it will be live from January End.
+
 <!---
 SohamNandy04/SohamNandy04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
